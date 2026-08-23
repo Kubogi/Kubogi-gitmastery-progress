@@ -275,17 +275,5 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-pull",
-    "started_at": 1787466671.422159,
-    "completed_at": 1787466675.885668,
-    "comments": [
-      "The local STU branch does not track origin/STU.",
-      "The local VWX branch does not track origin/VWX.",
-      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
-      "New commit in the remote DEF branch is not pulled to the local DEF branch."
-    ],
-    "status": "Incomplete"
   }
 ]
