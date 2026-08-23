@@ -266,5 +266,14 @@
       "Expected commit message of 'Fix phrasing of heading', got 'Add partial docs for listing books' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787457561.092864,
+    "completed_at": 1787457565.244309,
+    "comments": [
+      "Expected commit message of 'Fix phrasing of heading', got 'Add partial docs for listing books' instead."
+    ],
+    "status": "Incomplete"
   }
 ]
